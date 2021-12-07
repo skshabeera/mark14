@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-style: italic;
+}
+label{
+    display: block;
+    padding-bottom:1rem ;
+}
